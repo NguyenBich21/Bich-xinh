@@ -1,10 +1,10 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP group1
 
-- Member 1: <add-name>
-- Member 2: <add-name>
-- Member 3: <add-name>
+- Member 1: Nguyễn Thị Ngọc Bích
+- Member 2: Nguyễn Thùy Linh
+- Member 3: Đỗ Hương Ly
 - Member 4: <add-name>
 
 ## Starting server
