@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  publisher: MyString
+  year: 1
+  borrowed_at: 2023-10-24 10:07:05
+  available: false
+
+two:
+  title: MyString
+  publisher: MyString
+  year: 1
+  borrowed_at: 2023-10-24 10:07:05
+  available: false
